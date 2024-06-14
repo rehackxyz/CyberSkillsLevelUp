@@ -1,2 +1,2 @@
-# CyberSkillsLevelUp
-Materials from the CS Level-Up trainers
+# Cyber Skills Level-Up
+Materials from the Cyber Skills Level-Up trainers
