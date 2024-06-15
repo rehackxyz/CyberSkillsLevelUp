@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  webserver:
+    container_name: lvlup-webserver
+    build:
+      context: ./webserver
+      dockerfile: Dockerfile
+    ports:
+      - 5001:5001
+  mysql:
+    container_name: lvlup-sql
+    build:
+      context: ./sql
+      dockerfile: Dockerfile
+    ports:
+      - "3307:3306"
