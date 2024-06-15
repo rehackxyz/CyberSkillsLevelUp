@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BlindSQL</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style>
+        form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        input {
+            margin-top: 0.5rem;
+            width: 50%;
+
+        }
+        label {
+            margin-top: 0.5rem;
+        }
+        body {
+            background-color: #f5f5f5;
+        }
+    
+    </style>
+</head>
+<body>
+    <br>
+    <div class="bg">
+        <div class="forms container text-center">
+            <br>
+            <h1>Toy Shop Login</h1>
+            {% if error %}
+                <div class="container text-center alert-danger alert">
+                    {{ error }}
+                </div>
+            {% endif %}
+            <form action="/" method="POST">
+                <label for="Username" class="form-label">Username:</label>
+                <input type="text" name="username">
+                <label for="Password" class="form-label">Password:</label>
+                <input type="password" name="password">
+                <input class="btn btn-primary" type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

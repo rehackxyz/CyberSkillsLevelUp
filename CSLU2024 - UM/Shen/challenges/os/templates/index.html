@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <title>Command Centre</title>
+    <style>
+        pre {
+            height: 50vh;
+            background-color: rgb(187, 180, 180);
+        }
+        body {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <br>
+    <br>
+    <div class="container text-center">
+        <h1>OOB Commands</h1>
+    </div>
+    <br>
+    <br>
+    <div class="container text-center">
+            <form action="/" method="POST" id="form" class="form-group">
+                <label for="command" class="form-label">Command</label><br>
+                <input type="text" name="command" class="form-control">
+                <br>
+                <button style="width: 200px;" type="submit" class="btn btn-primary mb-2">Execute</button>
+            </form>
+    </div>
+    <br>
+    <div class="container text-center">
+        <pre>{{ query }}</pre>
+    </div>
+    
+</body>
+</html>

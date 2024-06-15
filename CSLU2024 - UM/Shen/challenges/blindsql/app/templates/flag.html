@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BlindSQL</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style>
+        body {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <div class="bg">
+        <div class="forms container text-center">
+            <br>
+            {% if flag %}
+                <div class="container text-center alert-success alert">
+                    {{ flag }}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

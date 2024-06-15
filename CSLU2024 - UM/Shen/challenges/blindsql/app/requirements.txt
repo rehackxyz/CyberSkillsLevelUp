@@ -1,0 +1,3 @@
+Flask==3.0.0
+Waitress==2.1.2
+mysql-connector-python

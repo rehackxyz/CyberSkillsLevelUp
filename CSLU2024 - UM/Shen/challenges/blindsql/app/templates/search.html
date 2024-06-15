@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BlindSQL</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+</head>
+<body>
+    <br>
+    <div class="bg">
+        {% if error %}
+                <div class="container text-center alert-danger alert">
+                    {{ error }}
+                </div>
+        {% endif %}
+    </div>
+</body>
+</html>
