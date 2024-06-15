@@ -1,0 +1,11 @@
+Inside the 7z file is a VM. You need to extract the file from within it.
+
+And then, you need Virtualbox (Download form https://www.virtualbox.org/) to run it.
+Click File -> Import Appliance and navigate to the "ova" file you just extracted.
+
+You should then be able to run the VM, and optionally tune it to your performance (Add
+more RAM if you have a system that can handle it, for example).
+
+After that, you can read the PDF document in this drive, that is  meant to be your guide, 
+and is way more comprehensive than my slides (not shown here as you don't need it, everything
+said in the slides is already in the PDF.).
