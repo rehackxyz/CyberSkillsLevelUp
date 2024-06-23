@@ -1,5 +1,10 @@
 # Cyber Skills Level-Up
-Materials from the Cyber Skills Level-Up trainers
+Cyber Skills Level-Up! is an initiative by RE:HACK to develop cybersecurity talent among students in Malaysia. Our goal is to distribute knowledge and facilitate knowledge sharing through Capture-the-Flag sessions with local CTF experts. The training materials provided by the instructors will be shared here.
+
+# Support
+This event is one of the programs initiated by RE:HACK, where we make use of the grant received from MOROS NET.\
+Ref: https://morosnet.com/project/rehack-malaysia-cybersecurity-camp/
+
 
 ## Cyber Skills Level-Up co-hosted with PEKOM
 Date: 25 May 2024\
@@ -24,5 +29,7 @@ Trainers:
 * Naavin Ravinthran - Reverse Engineering and Exploitation for CTFs
 * Yeo Jia Qi - Wireshark Wonders - Diving into the Shark Tank
 * Liew Zhi Ren - Basic in Pwn
+
+Event sponsors: Azmi Productions, HackerspaceMY, MZR Group
 
 Reference: [https://www.linkedin.com/posts/rehack-xyz_we-had-executed-our-another-experiment-focusing-activity-7200311913287725056-Cc3L/](https://www.linkedin.com/posts/rehack-xyz_community-cybersecurity-skills-activity-7205767272475295744-Hz4s)
