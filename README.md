@@ -4,8 +4,7 @@ Cyber Skills Level-Up! is an initiative by RE:HACK to develop cybersecurity tale
 # Support
 This event is one of the programs initiated by RE:HACK, where we make use of the grant received from MOROS NET.\
 Ref: https://morosnet.com/project/rehack-malaysia-cybersecurity-camp/
-![morosnetlogo](https://github.com/rehackxyz/CyberSkillsLevelUp/assets/92614795/b2aec554-1e93-47f6-a976-457565503e14)
-
+<img src="https://github.com/rehackxyz/CyberSkillsLevelUp/assets/92614795/b2aec554-1e93-47f6-a976-457565503e14" width=700>
 
 
 ## Cyber Skills Level-Up co-hosted with PEKOM
