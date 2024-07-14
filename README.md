@@ -34,3 +34,13 @@ Trainers:
 Event sponsors: Azmi Productions, HackerspaceMY, MZR Group
 
 Reference: [https://www.linkedin.com/posts/rehack-xyz_we-had-executed-our-another-experiment-focusing-activity-7200311913287725056-Cc3L/](https://www.linkedin.com/posts/rehack-xyz_community-cybersecurity-skills-activity-7205767272475295744-Hz4s)
+
+## Cyber Skills Level-Up co-hosted with CyberHax UTP and HibiscusLab
+Date: 13 July 2024\
+Location: Learning Hub 5&6, Block 1, University Teknologi PETRONAS
+Trainers:
+* Firdaus Amran
+* Nurul Hanan
+* Irfan Badzlin (HibiscusLab representative)
+
+Reference: TBC
