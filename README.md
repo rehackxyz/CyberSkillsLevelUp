@@ -40,7 +40,13 @@ Date: 13 July 2024\
 Location: Learning Hub 5&6, Block 1, University Teknologi PETRONAS
 Trainers:
 * Firdaus Amran
+ * Hack Za Web With <3
 * Nurul Hanan
+ * Intro to CTF
+ * Steganography
+ * Cryptography
 * Irfan Badzlin (HibiscusLab representative)
+ * Forensics
+ * OSINT
 
 Reference: TBC
