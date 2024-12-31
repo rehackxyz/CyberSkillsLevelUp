@@ -49,4 +49,17 @@ Trainers:
   * Forensics
   * OSINT
 
-Reference: TBC
+Reference: [https://www.linkedin.com/posts/cyberhaxutp_cybersecurity-techevent-cyberhaxutp-activity-7222027793214160896-ERvQ](https://www.linkedin.com/posts/cyberhaxutp_cybersecurity-techevent-cyberhaxutp-activity-7222027793214160896-ERvQ)
+
+## Cyber Skills Level-Up co-hosted with Network Club UPM
+Date: 28 - 29 December 2024\
+Location: Faculty of Computer Science and Information Technology, Universiti Putra Malaysia
+Trainers:
+* Irfan Haziq a.k.a Capang - PWN for Starters
+* Nik Amir a.k.a whymir - Memory Forensic Slayers
+* Sara - Hardware in Capture the Flag
+* Mini Capture the Flag by RE:UN10N members : @vicevirus (Lead),  @n3r, @lilacjade, @identities, @cicakberlari, @CapangJabba, @takephoto
+
+Event sponsors: WAZAN UPM and System Consultancy Services Sdn Bhd
+
+Reference: [https://www.linkedin.com/feed/update/urn:li:activity:7279631628304371712](https://www.linkedin.com/feed/update/urn:li:activity:7279631628304371712)
