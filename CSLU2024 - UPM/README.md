@@ -1,4 +1,4 @@
-PWN for Starters\
+PWN for Starters
 - https://github.com/broCapang/cslu_upm_workshop
 
 Hardware in Capture the Flag
