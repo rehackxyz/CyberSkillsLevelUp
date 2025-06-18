@@ -1,9 +1,23 @@
-# Cyber Skills Level-Up
+# Cyber Skills Level-Up 2025
+<img src="https://i.ibb.co/MD3W3FMn/cslu2025-white.png" width=500>
+
+## Cyber Skills Level-Up co-hosted with CyberX UTM
+Date: 14 June 2025\
+Location: N28 and N28A UTM Department of Information Systems, Faculty of Computing\
+Trainers:
+* Marcus Chan - Breaking Access Control & Authentication in Web CTFs
+* Shreethaar Arunagirinathan - Reverse Engineering on Windows
+* Nik Amir Hakim - Memory Forensics Slayer : 101
+* Invited industrial speaker, Mr Zuhair from ASK Pentest - Making Sense of the Noise: Practical CTI for Emerging Cybersecurity Professionals
+
+Reference: https://www.linkedin.com/posts/rehack-xyz_cybersecurity-capturetheflag-reun10n-activity-7328237764380897281-Sb9L, 
+
+# Cyber Skills Level-Up 2024
 Cyber Skills Level-Up! is an initiative by RE:HACK to develop cybersecurity talent among students in Malaysia. Our goal is to distribute knowledge and facilitate knowledge sharing through Capture-the-Flag sessions with local CTF experts. The training materials provided by the instructors will be shared here.
 
 # Support
 This event is one of the programs initiated by RE:HACK, where we make use of the grant received from MOROS NET.\
-Ref: https://morosnet.com/project/rehack-malaysia-cybersecurity-camp/
+Reference: https://morosnet.com/project/rehack-malaysia-cybersecurity-camp/
 <img src="https://github.com/rehackxyz/CyberSkillsLevelUp/assets/92614795/b2aec554-1e93-47f6-a976-457565503e14" width=700>
 
 
