@@ -1,6 +1,15 @@
 # Cyber Skills Level-Up 2025
 <img src="https://i.ibb.co/MD3W3FMn/cslu2025-white.png" width=500>
 
+## Cyber Skills Level-Up co-hosted with cyber673
+Date: 21 June 2025\
+Location: Brunei Innovation Lab
+Trainers:
+* Irfan Haziq - Basic in PWN
+* Nik Amir Hakim - Memory Forensics Slayer : 101
+
+Reference: https://www.linkedin.com/feed/update/urn:li:activity:7337807650811744256/
+
 ## Cyber Skills Level-Up co-hosted with CyberX UTM
 Date: 14 June 2025\
 Location: N28 and N28A UTM Department of Information Systems, Faculty of Computing\
@@ -10,7 +19,7 @@ Trainers:
 * Nik Amir Hakim - Memory Forensics Slayer : 101
 * Invited industrial speaker, Mr Zuhair from ASK Pentest - Making Sense of the Noise: Practical CTI for Emerging Cybersecurity Professionals
 
-Reference: https://www.linkedin.com/posts/rehack-xyz_cybersecurity-capturetheflag-reun10n-activity-7328237764380897281-Sb9L, 
+Reference: https://www.linkedin.com/posts/rehack-xyz_cybersecurity-capturetheflag-reun10n-activity-7328237764380897281-Sb9L
 
 # Cyber Skills Level-Up 2024
 Cyber Skills Level-Up! is an initiative by RE:HACK to develop cybersecurity talent among students in Malaysia. Our goal is to distribute knowledge and facilitate knowledge sharing through Capture-the-Flag sessions with local CTF experts. The training materials provided by the instructors will be shared here.
