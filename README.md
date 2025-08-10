@@ -14,6 +14,8 @@ Trainers:
 * Khairulazam - Career Talk
 * Firdaus Khairuddin - Career Talk
 
+Event sponsors: Dotcom Telecommunications Sdn. Bhd.
+
 Reference: https://www.linkedin.com/posts/adlinab_better-late-than-never-still-buzzing-from-activity-7359621605246881792-mkiP
 
 ## Cyber Skills Level-Up co-hosted with cyber673
