@@ -1,6 +1,21 @@
 # Cyber Skills Level-Up 2025
 <img src="https://i.ibb.co/MD3W3FMn/cslu2025-white.png" width=500>
 
+## Cyber Skills Level-Up co-hosted with GMI CYSEC
+Date: 2 - 3 August 2025\
+Location: German Institute Malaysia, Kuala Lumpur\
+Trainers:
+* Adlina (Foxy) - Memory Analysis
+* Affan Najiy - Malware Analysis
+* Chai Cheng Xun - Mobile Pentesting
+* Firdaus Amran - Web Exploitation
+* Nadiah Nasirah - Internship Talk
+* Aliah SYafirah - Internship Talk
+* Khairulazam - Career Talk
+* Firdaus Khairuddin - Career Talk
+
+Reference: https://www.linkedin.com/posts/adlinab_better-late-than-never-still-buzzing-from-activity-7359621605246881792-mkiP
+
 ## Cyber Skills Level-Up co-hosted with cyber673
 Date: 21 June 2025\
 Location: Brunei Innovation Lab
